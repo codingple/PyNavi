@@ -9,7 +9,7 @@ This program is an implementation of the following paper:
 In short, this algorithm combines trajectory data, which is GPX(GPS Xml format) file,
 and generates new routes like below:  
 &nbsp;  
-![combination](./images/combination.png)  
+![combination](./images/combination.png){: width="50%" height="50%"}  
 &nbsp;  
 ### Prerequisite  
 - Python (ver. 2.7.11)  
