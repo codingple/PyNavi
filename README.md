@@ -8,4 +8,4 @@ This program is an implementation of the following paper:
 
 In short, this algorithm combines trajectory data, which is GPX(GPS Xml format) file,
 and generates new routes like below:  
-![combination](./images/combination.PNG)  
+![combination](./images/combination.png)  
