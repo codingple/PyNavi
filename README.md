@@ -20,7 +20,7 @@ and generates new routes like below:
 - The test is carried out on Windows  
   
 ### Usage  
-* **Trajectory Clustering**  
+**Trajectory Clustering**  
 In _/trajectory_clustering/driver.py_, the _input_ value is the directory for trajectories to combine. 
 If _input_ is "C:\trajectories", the input GPX files should be in there.  
   
@@ -40,7 +40,7 @@ After that, you can check out the information for combining trajectories:
 </p>  
 &nbsp;  
 
-* **Trajectory Direction**  
+**Trajectory Direction**  
 In _/trajectory_direction/driver.py_, the _output_ value is the directory for the generated routes. 
 If _output_ is "C:\output", you can find the combined output after running _driver.py_ like:  
 &nbsp;  
@@ -49,3 +49,13 @@ If _output_ is "C:\output", you can find the combined output after running _driv
 </p>  
 &nbsp;  
 
+### Result  
+**Input Path**  
+The following shows 3 of input trajectories:  
+  
+![input](./images/input.PNG)  
+  
+&nbsp;  
+And the following shows 8 of output routes:  
+  
+![input](./images/output.PNG)  
