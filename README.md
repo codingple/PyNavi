@@ -10,3 +10,7 @@ In short, this algorithm combines trajectory data, which is GPX(GPS Xml format) 
 and generates new routes like below:  
 &nbsp;  
 ![combination](./images/combination.png)  
+&nbsp;  
+### Prerequisite  
+- Python (ver. 2.7.11)  
+- MongoDB  
